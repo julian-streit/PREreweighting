@@ -1,0 +1,1 @@
+This repository contains example python scripts used to calculate PREs (paramagnetic relaxation enhancement NMR measurements) from MD ensembles. They are adapted to ribosome-nascent chain complexes. Scripts used to reweight the ensembles and the experimental data are also provided.
